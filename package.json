@@ -18,6 +18,9 @@
     "@angular/platform-browser": "~13.3.0",
     "@angular/platform-browser-dynamic": "~13.3.0",
     "@angular/router": "~13.3.0",
+    "@aws-sdk/client-cognito-identity-provider": "^3.226.0",
+    "amazon-cognito-identity-js": "^6.0.1",
+    "bootstrap": "^3.3.7",
     "rxjs": "~7.5.0",
     "tslib": "^2.3.0",
     "zone.js": "~0.11.4"
